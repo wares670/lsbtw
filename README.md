@@ -1,4 +1,4 @@
-# lsbtw 🚀
+# lsbtw
 
 `lsbtw` is a lightweight, custom alternative to the standard Linux `ls` command written in C. It gives you a clean list of directory contents while instantly showing you what is a file and what is a directory using clear visual markers and automatic color formatting.
 
